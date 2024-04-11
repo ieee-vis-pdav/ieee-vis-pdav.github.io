@@ -1,0 +1,60 @@
+{
+  "site": {
+    "title": "PDAV Workshop",
+    "base_url": "/",
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.png",
+    "logo_white": "/images/logo-light.png",
+    "logo_width": "150",
+    "logo_height": "39",
+    "logo_text": "PDAV Workshop"
+  },
+  "settings": {
+    "theme_switcher": true,
+    "default_theme": "system",
+    "pagination": 6,
+    "InnerPaginationOptions": {
+      "enableTop": false,
+      "enableBottom": true
+    },
+    "summary_length": 200,
+    "blog_folder": "posts"
+  },
+  "params": {
+    "tag_manager_id": "",
+    "footer_content": "IEEE VIS Workshop on Progressive Data Analysis and Visualization",
+    "copyright": ""
+  },
+  "metadata": {
+    "meta_author": "PDAV",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "PDAV Workshop"
+  },
+  "widgets": {
+    "about": {
+      "enable": false,
+      "content": "1st IEEE Workshop on Progressive Data Analysis and Visualization"
+    },
+    "featured_posts": {
+      "enable": true,
+      "title": "Blog Categories",
+      "showPost": 3
+    },
+    "categories": {
+      "enable": true,
+      "title": "Blog Categories"
+    },
+    "newsletter": {
+      "enable": true,
+      "title": "Mailing List",
+      "content": "Join the PDAV mailing list",
+      "privacy_policy_page": "/privacypolicy",
+      "malichipm_url": "https://"
+    }
+  },
+  "disqus": {
+    "enable": false,
+    "shortname": "themefisher-template",
+    "settings": {}
+  }
+}

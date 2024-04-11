@@ -1,0 +1,46 @@
+{
+  "main": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "Call for Papers",
+      "url": "/cfp"
+    },
+    {
+      "name": "Program",
+      "url": "/program"
+    },
+    {
+      "name": "Organization",
+      "url": "/contact"
+    },
+    {
+      "name": "Previous Events",
+      "url": "",
+      "disabled": true,
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "first edition",
+          "url": "/elements"
+        }
+      ]
+    }
+  ],
+  "footer": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "Imprint",
+      "url": "/imprint"
+    },
+    {
+      "name": "Privacy Policy",
+      "url": "privacypolicy"
+    }
+  ]
+}
