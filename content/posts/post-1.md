@@ -18,6 +18,3 @@ The code for the website can be found on <a href="https://github.com/ieee-vis-pd
 - Finish Call for Papers
 - Implement mailing list
 
-
-![alter-text](/images/post/post-1.png)
-*Example Caption*
