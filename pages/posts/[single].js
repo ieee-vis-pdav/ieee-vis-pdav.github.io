@@ -1,8 +1,8 @@
 import config from "@config/config.json";
 import PostSingle from "@layouts/PostSingle";
-import { getSinglePage } from "../../public/lib/contentParser";
-import { getTaxonomy } from "../../public/lib/taxonomyParser";
-import parseMDX from "../../public/lib/utils/mdxParser";
+import { getSinglePage } from "../../lib/contentParser";
+import { getTaxonomy } from "../../lib/taxonomyParser";
+import parseMDX from "../../lib/utils/mdxParser";
 const { blog_folder } = config.settings;
 
 // post single layout

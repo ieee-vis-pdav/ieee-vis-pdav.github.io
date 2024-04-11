@@ -1,4 +1,4 @@
-import { markdownify } from "../public/lib/utils/textConverter";
+import { markdownify } from "../lib/utils/textConverter";
 import Link from "next/link";
 import { BsArrowRightShort } from "react-icons/bs";
 import { FaEnvelope, FaMapMarkerAlt, FaUserAlt } from "react-icons/fa";

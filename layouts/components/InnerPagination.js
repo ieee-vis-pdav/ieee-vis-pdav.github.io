@@ -1,4 +1,4 @@
-import { sortByDate } from "../../public/lib/utils/sortFunctions";
+import { sortByDate } from "../../lib/utils/sortFunctions";
 import Link from "next/link";
 
 const InnerPagination = ({ posts, date }) => {
