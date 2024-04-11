@@ -1,5 +1,5 @@
 import Base from "@layouts/Baseof";
-import { slugify } from "@lib/utils/textConverter";
+import { slugify } from "../public/lib/utils/textConverter";
 import Post from "@partials/Post";
 import { useSearchContext } from "context/state";
 import { useRouter } from "next/router";

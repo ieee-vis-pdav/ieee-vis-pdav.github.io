@@ -1,9 +1,9 @@
 import config from "@config/config.json";
 import Base from "@layouts/Baseof";
 import Pagination from "@layouts/components/Pagination";
-import { getListPage, getSinglePage } from "@lib/contentParser";
-import { markdownify } from "@lib/utils/textConverter";
-import { sortByDate } from "@lib/utils/sortFunctions";
+import { getListPage, getSinglePage } from "../../public/lib/contentParser";
+import { markdownify } from "../../public/lib/utils/textConverter";
+import { sortByDate } from "../../public/lib/utils/sortFunctions";
 import Post from "@partials/Post";
 const { blog_folder, summary_length } = config.settings;
 

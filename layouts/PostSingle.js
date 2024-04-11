@@ -1,8 +1,8 @@
 import config from "@config/config.json";
 import Base from "@layouts/Baseof";
 import InnerPagination from "@layouts/components/InnerPagination";
-import dateFormat from "@lib/utils/dateFormat";
-import { markdownify } from "@lib/utils/textConverter";
+import dateFormat from "../public/lib/utils/dateFormat";
+import { markdownify } from "../public/lib/utils/textConverter";
 import { DiscussionEmbed } from "disqus-react";
 import { MDXRemote } from "next-mdx-remote";
 import { useTheme } from "next-themes";

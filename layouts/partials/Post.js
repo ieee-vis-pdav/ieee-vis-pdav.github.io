@@ -1,9 +1,9 @@
 import config from "@config/config.json";
 import ImageFallback from "@layouts/components/ImageFallback";
-import dateFormat from "@lib/utils/dateFormat";
+import dateFormat from "../../public/lib/utils/dateFormat";
 import Link from "next/link";
 import { FaRegCalendar, FaUserAlt } from "react-icons/fa";
-import {markdownify} from "@lib/utils/textConverter";
+import {markdownify} from "../../public/lib/utils/textConverter";
 
 const Post = ({ post }) => {
   const { summary_length, blog_folder } = config.settings;

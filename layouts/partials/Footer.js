@@ -4,7 +4,7 @@ import menu from "@config/menu.json";
 import social from "@config/social.json";
 import ImageFallback from "@layouts/components/ImageFallback";
 import Logo from "@layouts/components/Logo";
-import { markdownify } from "@lib/utils/textConverter";
+import { markdownify } from "../../public/lib/utils/textConverter";
 import Link from "next/link";
 
 const Footer = () => {

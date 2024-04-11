@@ -1,12 +1,12 @@
 import config from "@config/config.json";
 import Base from "@layouts/Baseof";
-import { getTaxonomy } from "@lib/taxonomyParser";
-import { humanize, markdownify } from "@lib/utils/textConverter";
+import { getTaxonomy } from "../../public/lib/taxonomyParser";
+import { humanize, markdownify } from "../../public/lib/utils/textConverter";
 import Link from "next/link";
 const { blog_folder } = config.settings;
-import { getSinglePage } from "@lib/contentParser";
+import { getSinglePage } from "../../public/lib/contentParser";
 import { FaFolder } from "react-icons/fa";
-import { slugify } from "@lib/utils/textConverter";
+import { slugify } from "../../public/lib/utils/textConverter";
 
 const Categories = ({ categories }) => {
   return (

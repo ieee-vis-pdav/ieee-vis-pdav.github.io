@@ -1,9 +1,9 @@
 import config from "@config/config.json";
 import Base from "@layouts/Baseof";
 import Sidebar from "@layouts/partials/Sidebar";
-import { getSinglePage } from "@lib/contentParser";
-import { getTaxonomy } from "@lib/taxonomyParser";
-import { slugify } from "@lib/utils/textConverter";
+import { getSinglePage } from "../../public/lib/contentParser";
+import { getTaxonomy } from "../../public/lib/taxonomyParser";
+import { slugify } from "../../public/lib/utils/textConverter";
 import Post from "@partials/Post";
 const { blog_folder } = config.settings;
 
