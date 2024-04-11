@@ -28,7 +28,7 @@ module.exports = {
   content: [
     "./pages/**/*.{js,ts,jsx,tsx}",
     "./layouts/**/*.{js,ts,jsx,tsx}",
-    "./content/**/*.{md,mdx}",
+    "./content/**/*.{md,mdx}"
   ],
   theme: {
     screens: {
