@@ -1,5 +1,5 @@
-import config from "@config/config.json";
-import social from "@config/social.json";
+import config from "../../config/config.json";
+import social from "../../config/social.json";
 import ImageFallback from "@layouts/components/ImageFallback";
 import Logo from "@layouts/components/Logo";
 import CustomForm from "@layouts/components/NewsLetterForm";
