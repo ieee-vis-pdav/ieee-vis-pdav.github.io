@@ -23,9 +23,9 @@ This workshop will focus on progressive systems. We encourage late-breaking work
 
 # Submission Guidelines and Format<a id="submission-guidelines-and-format"></a>
 
-Authors are invited to submit papers between two and four pages in length, excluding references, and using the standard IEEE conference paper template. 
-[https://tc.computer.org/vgtc/publications/conference/](https://tc.computer.org/vgtc/publications/conference/)
-[https://www.overleaf.com/gallery/tagged/ieee-official](https://www.overleaf.com/gallery/tagged/ieee-official)
+Authors are invited to submit papers between two and four pages in length, excluding references, and using the standard IEEE conference paper template.
+- [https://tc.computer.org/vgtc/publications/conference/](https://tc.computer.org/vgtc/publications/conference/)
+- [https://www.overleaf.com/gallery/tagged/ieee-official](https://www.overleaf.com/gallery/tagged/ieee-official)
 
 # Proceedings<a id="proceedings"></a>
 
@@ -40,7 +40,6 @@ Authors are free to publish their article as a preprint, e.g., arXiv.
 |Submission Deadline:| **1st July 2024** ||  |
 |Notification of Acceptance:| **19th July 2024** ||  |
 |Camera Ready Paper and Poster:| **26th August 2024** ||  |
-
 All deadlines are at 23:59 (11:59 pm) AoE (UTC-12).
 
 
