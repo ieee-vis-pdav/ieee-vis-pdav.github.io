@@ -13,7 +13,6 @@ const ImageFallback = (props) => {
   return (
     <Image
       {...rest}
-      // src={"/nextjs-github-pages"+imgSrc}
       src={imgSrc}
       onError={() => {
         setImgSrc(fallback);

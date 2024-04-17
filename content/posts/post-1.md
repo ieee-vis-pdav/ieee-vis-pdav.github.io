@@ -11,10 +11,9 @@ The website for PDAV is now online. Created with Next.js and a free design templ
 
 The code for the website can be found on <a href="https://github.com/ieee-vis-pdav/pdav-website" target="_blank">GitHub.com</a>
 
-> The website is not completely done yet!
+> The website is always work in progress! :)
 
-## Things to be done
-
-- Finish Call for Papers
+### Next steps
 - Implement mailing list
+- Implement comment section
 

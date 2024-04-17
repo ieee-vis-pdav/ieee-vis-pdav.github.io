@@ -1,7 +1,7 @@
 ---
 title: "PDAV Organization"
 description: ""
-mail: "todo@ieeevis.org"
+mail: "pdav-chairs@ieeevis.org"
 form_action: "#"
 layout: "contact"
 chairs:
