@@ -35,12 +35,12 @@
       "url": "/"
     },
     {
-      "name": "Imprint",
-      "url": "/imprint"
+      "name": "Code of Conduct",
+      "url": "/coc"
     },
     {
-      "name": "Privacy Policy",
-      "url": "privacypolicy"
+      "name": "About",
+      "url": "/about"
     }
   ]
 }

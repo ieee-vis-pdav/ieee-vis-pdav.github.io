@@ -85,6 +85,24 @@ const Sidebar = ({ posts, categories, className }) => {
         </div>
       )}
 
+      <div className="mt-6 rounded border border-border p-6 dark:border-darkmode-border">
+        <h4 className="section-title mb-12 text-center">Important Dates</h4>
+                <div>
+                  <div style={{display:"flex", justifyContent:"space-between"}}>
+                    <p>Submission Deadline: </p>
+                    <h6 style={{alignContent:"center"}}>01.07.2024</h6>
+                  </div>
+                  <div style={{display:"flex", justifyContent:"space-between"}}>
+                    <p>Notification of Acceptance: </p>
+                    <h6 style={{alignContent:"center"}}>19.07.2024</h6>
+                  </div>
+                  <div style={{display:"flex", justifyContent:"space-between"}}>
+                    <p>Camera Ready Paper & Poster:  </p>
+                    <h6 style={{alignContent:"center"}}>26.08.2024</h6>
+                  </div>
+                </div>
+      </div>
+
       {/* featured widget */}
       {featured_posts.enable && (
         <div className="mt-6 rounded border border-border p-6 dark:border-darkmode-border">
