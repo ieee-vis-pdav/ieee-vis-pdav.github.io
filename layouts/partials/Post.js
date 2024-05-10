@@ -13,13 +13,16 @@ const Post = ({ post }) => {
     <div className="post">
       <div className="relative">
         {post.frontmatter.image && (
-          <ImageFallback
-            className="rounded"
-            src={post.frontmatter.image}
-            alt={post.frontmatter.title}
-            width={405}
-            height={208}
-          />
+          <Link
+            href={`/${blog_folder}/${post.slug}`}>
+            <ImageFallback
+              className="rounded"
+              src={post.frontmatter.image}
+              alt={post.frontmatter.title}
+              width={405}
+              height={208}
+            />
+          </Link>
         )}
         <ul className="absolute top-3 left-2 flex flex-wrap items-center">
           {post.frontmatter.categories.map((tag, index) => (

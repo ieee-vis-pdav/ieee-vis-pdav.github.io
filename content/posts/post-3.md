@@ -12,7 +12,7 @@ We hope to bring researchers interested in progressive data analysis and visuali
 
 ## PDAV @ VIS 2024
 
-> The Call for Papers is online!
+> The Call for Papers is online: [Open Call for Papers](/cfp)!
 
 Papers can be submitted via the [PCS website](https://new.precisionconference.com/) and will be opened in the next weeks.
 

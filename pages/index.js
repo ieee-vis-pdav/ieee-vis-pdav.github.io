@@ -102,6 +102,7 @@ const Home = ({
                               key={`key-${i}`}
                             >
                               {post.frontmatter.image && (
+                                <Link href={`/${blog_folder}/${post.slug}`}>
                                 <ImageFallback
                                   className="mr-3 h-[85px] rounded object-cover"
                                   src={post.frontmatter.image}
@@ -109,6 +110,7 @@ const Home = ({
                                   width={105}
                                   height={85}
                                 />
+                                </Link>
                               )}
                               <div>
                                 <h3 className="h5 mb-2">
