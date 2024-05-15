@@ -100,6 +100,10 @@ const Sidebar = ({ posts, categories, className }) => {
                     <p>Camera Ready Paper & Poster:  </p>
                     <h6 style={{alignContent:"center"}}>26.08.2024</h6>
                   </div>
+                  <div style={{display:"flex", justifyContent:"space-between"}}>
+                    <p>Workshop (1/2 Day, Afternoon):  </p>
+                    <h6 style={{alignContent:"center"}}>13.10.2024</h6>
+                  </div>
                 </div>
       </div>
 
