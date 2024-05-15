@@ -7,12 +7,12 @@ featured: true
 draft: false
 ---
 
-Our Workshop will be a half day event @ IEEE VIS.
+Our Workshop will be a half day event @ IEEE VIS in afternoon of October 13, 2024.
 We hope to bring researchers interested in progressive data analysis and visualization together and share new developments in the research field.
 
 ## PDAV @ VIS 2024
 
 > The Call for Papers is online: [Open Call for Papers](/cfp)!
 
-Papers can be submitted via the [PCS website](https://new.precisionconference.com/) and will be opened in the next weeks.
+Papers can be submitted via the [PCS website](https://new.precisionconference.com/).
 

@@ -32,7 +32,7 @@ Authors are invited to submit papers between two and four pages in length, exclu
 - [https://github.com/ieeevgtc/vgtc_conference_latex](https://github.com/ieeevgtc/vgtc_conference_latex)
 
 To submit a paper, create an account and submit the paper to the submission system at:
-[https://new.precisionconference.com/](https://new.precisionconference.com/) (not open yet)
+[https://new.precisionconference.com/](https://new.precisionconference.com/)
 
 # Proceedings<a id="proceedings"></a>
 
