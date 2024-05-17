@@ -34,12 +34,13 @@ Authors are invited to submit papers between two and four pages in length, exclu
 To submit a paper, create an account and submit the paper to the submission system at:
 [https://new.precisionconference.com/](https://new.precisionconference.com/)
 
-Accepted papers will also have a poster slot at the IEEE VIS poster session for more exposure and interesting discussions.
 
 # Proceedings<a id="proceedings"></a>
 
 PDAV will not have proceedings. Accepted papers will be published on the workshop website if the authors agree.
 Authors are free to publish their article as a preprint, e.g., arXiv.
+
+Accepted papers will also have a poster slot at the IEEE VIS poster session for more exposure and interesting discussions.
 
 
 # Important Dates<a id="important-dates"></a>
