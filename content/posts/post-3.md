@@ -7,7 +7,7 @@ featured: true
 draft: false
 ---
 
-Our Workshop will be a half day event @ IEEE VIS in afternoon of October 13, 2024.
+Our Workshop will be a half day event @ IEEE VIS in the morning of October 14, 2024.
 We hope to bring researchers interested in progressive data analysis and visualization together and share new developments in the research field.
 
 ## PDAV @ VIS 2024
