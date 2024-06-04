@@ -40,7 +40,7 @@ To submit a paper, create an account and submit the paper to the submission syst
 PDAV will not have proceedings. Accepted papers will be published on the workshop website if the authors agree.
 Authors are free to publish their article as a preprint, e.g., arXiv.
 
-Accepted papers will also have a poster slot at the IEEE VIS poster session for more exposure and interesting discussions.
+Accepted papers will have an oral presentation at the workshop, and also a poster slot at the IEEE VIS poster session for additional exposure and interesting discussions
 
 
 # Important Dates<a id="important-dates"></a>
