@@ -10,7 +10,7 @@ const Contact = ({ data }) => {
 
   let chairList = [];
   for (let chair of chairs){
-    chairList.push(<li>{chair.name}, {chair.affiliation}</li>)
+    chairList.push(<li key={chair}>{chair.name}, {chair.affiliation}</li>)
   }
 
   return (
@@ -37,84 +37,6 @@ const Contact = ({ data }) => {
           {chairList}
           </ul>
 
-          {/*<div className="contact-form-wrapper rounded border border-border p-6 dark:border-darkmode-border lg:col-6">*/}
-          {/*  <h2>*/}
-          {/*    Send Us A*/}
-          {/*    <span className="ml-1.5 inline-flex items-center text-primary">*/}
-          {/*      Message*/}
-          {/*      <BsArrowRightShort />*/}
-          {/*    </span>*/}
-          {/*  </h2>*/}
-          {/*  <form*/}
-          {/*    className="contact-form mt-12"*/}
-          {/*    method="POST"*/}
-          {/*    action={form_action}*/}
-          {/*  >*/}
-          {/*    <div className="mb-6">*/}
-          {/*      <label className="mb-2 block font-secondary" htmlFor="name">*/}
-          {/*        Full name*/}
-          {/*        <small className="font-secondary text-sm text-primary">*/}
-          {/*          **/}
-          {/*        </small>*/}
-          {/*      </label>*/}
-          {/*      <input*/}
-          {/*        className="form-input w-full"*/}
-          {/*        name="name"*/}
-          {/*        type="text"*/}
-          {/*        placeholder="Thomas Milano"*/}
-          {/*        required*/}
-          {/*      />*/}
-          {/*    </div>*/}
-          {/*    <div className="mb-6">*/}
-          {/*      <label className="mb-2 block font-secondary" htmlFor="email">*/}
-          {/*        Email Address*/}
-          {/*        <small className="font-secondary text-sm text-primary">*/}
-          {/*          **/}
-          {/*        </small>*/}
-          {/*      </label>*/}
-          {/*      <input*/}
-          {/*        className="form-input w-full"*/}
-          {/*        name="email"*/}
-          {/*        type="email"*/}
-          {/*        placeholder="example@gmail.com"*/}
-          {/*        required*/}
-          {/*      />*/}
-          {/*    </div>*/}
-          {/*    <div className="mb-6">*/}
-          {/*      <label className="mb-2 block font-secondary" htmlFor="subject">*/}
-          {/*        Subject*/}
-          {/*        <small className="font-secondary text-sm text-primary">*/}
-          {/*          **/}
-          {/*        </small>*/}
-          {/*      </label>*/}
-          {/*      <input*/}
-          {/*        className="form-input w-full"*/}
-          {/*        name="subject"*/}
-          {/*        type="text"*/}
-          {/*        placeholder="Blog advertisement"*/}
-          {/*        required*/}
-          {/*      />*/}
-          {/*    </div>*/}
-          {/*    <div className="mb-6">*/}
-          {/*      <label className="mb-2 block font-secondary" htmlFor="message">*/}
-          {/*        Your Message Here*/}
-          {/*        <small className="font-secondary text-sm text-primary">*/}
-          {/*          **/}
-          {/*        </small>*/}
-          {/*      </label>*/}
-          {/*      <textarea*/}
-          {/*        className="form-textarea w-full"*/}
-          {/*        placeholder="Hello I’m Mr ‘x’ from………….."*/}
-          {/*        rows="7"*/}
-          {/*      />*/}
-          {/*    </div>*/}
-          {/*    <input*/}
-          {/*      className="btn btn-primary"*/}
-          {/*      type="submit"*/}
-          {/*      value="Send Now"*/}
-          {/*    />*/}
-          {/*  </form>*/}
-          {/*</div>*/}
         </div>
         <div className="row">
           {phone && (

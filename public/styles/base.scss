@@ -44,3 +44,29 @@ h6,
 .h6 {
   @apply text-h6;
 }
+
+.underlineExtended {
+  text-decoration: none;
+  position: relative;
+}
+
+.underlineExtended:after {
+  position: absolute;
+  content: '';
+  height: 2px;
+  bottom: 0;
+
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+  width: 100%;
+  background: gray;
+
+  animation: blinker 1s linear infinite;
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}

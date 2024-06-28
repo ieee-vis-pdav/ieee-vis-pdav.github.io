@@ -89,12 +89,12 @@ const Sidebar = ({ posts, categories, className }) => {
         <h4 className="section-title mb-12 text-center">Important Dates</h4>
                 <div>
                   <div style={{display:"flex", justifyContent:"space-between"}}>
-                    <p>Submission Deadline: </p>
-                    <h6 style={{alignContent:"center"}}>01.07.2024</h6>
+                    <p>Submission Deadline: <span className={"underlineExtended"}>Extended</span> </p>
+                    <h6 style={{alignContent:"center"}}>15.07.2024</h6>
                   </div>
                   <div style={{display:"flex", justifyContent:"space-between"}}>
                     <p>Notification of Acceptance: </p>
-                    <h6 style={{alignContent:"center"}}>19.07.2024</h6>
+                    <h6 style={{alignContent:"center"}}>31.07.2024</h6>
                   </div>
                   <div style={{display:"flex", justifyContent:"space-between"}}>
                     <p>Camera Ready Paper & Poster:  </p>
