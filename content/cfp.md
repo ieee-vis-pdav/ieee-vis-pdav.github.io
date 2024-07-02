@@ -65,7 +65,7 @@ Accepted papers will have an oral presentation at the workshop, and also a poste
 
 |                                                                      |                      |||||
 |----------------------------------------------------------------------|----------------------|--|--|--|--|
-| Submission Deadline: <span className={"underlineExtended"}>(Extended)</span> | **15st July 2024**   ||  |
+| Submission Deadline: <span className={"underlineExtended"}>(Extended)</span> | **15th July 2024**   ||  |
 | Notification of Acceptance:                                          | **31th July 2024**   ||  |
 | Camera Ready Paper and Poster:                                       | **26th August 2024** ||  |
 All deadlines are at 23:59 (11:59 pm) AoE (UTC-12).
