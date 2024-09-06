@@ -3,7 +3,7 @@ title: Deadline Extension
 date: 2024-06-27T12:00:00Z
 image: /images/post/extension.png
 categories: ["workshop", "cfp"]
-featured: true
+featured: false
 draft: false
 ---
 

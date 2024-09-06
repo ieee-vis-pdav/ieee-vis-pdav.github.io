@@ -8,22 +8,30 @@ The workshop on PDAV will be a half day event on Monday, October 14 in the morni
 # Program
 ### 8:30 - 9:45 AM: Session 1
 
-- 8:30: Opening
-- 8:35: First Keynote: [The Time for Progressive Visualization is Increasingly Now, Danyel Fisher](#danyel-fisher), USA
-- 8:55: Second Keynote: [A Progressive Perspective on Topological Data Analysis, Julien Tierny](#julien-tierny), Université Paris-Sorbonne, FR
-- 9:15: Third Keynote: [Explaining incremental models, Barbara Hammer](#barbara-hammer), Chair of the Machine Learning research group at the Research Institute for Cognitive Interaction Technology (CITEC), Bielefeld University, DE
-- 9:35: Q&A
+- **8:30:** Opening
+- **8:35:** First Keynote: [The Time for Progressive Visualization is Increasingly Now](#danyel-fisher)  
+_Danyel Fisher, USA_
+- **8:55:** Second Keynote: [A Progressive Perspective on Topological Data Analysis](#julien-tierny)  
+_Julien Tierny, Université Paris-Sorbonne, FR_
+- **9:15:** Third Keynote: [Explaining incremental models](#barbara-hammer)  
+_Barbara Hammer, Chair of the Machine Learning research group at the Research Institute for Cognitive Interaction Technology (CITEC), Bielefeld University, DE_
+- **9:35:** Q&A
 
 ### 9:45 - 10:15 AM: Break
 
 
 ### 10:15 - 11:30 AM: Session 2
 
-- 10:15: Intoducing the Book on PDAV, Jean-Daniel Fekete, Inria & Université Paris-Saclay, FR
-- 10:35: Towards a Progressive Open Source Framework for SciVis and InfoVis, Charles Gueunet, François Mazen, Kitware Europe
-- 10:50 Progressive Glimmer: Expanding Dimensionality in Multidimensional Scaling, Marina Evers, David Hägele, Sören Döring, Daniel Weiskopf, DE
-- 11:05 Practical Challenges of Progressive Data Science in Healthcare, Faisal Zaki Roshan, Abhishek Ahuja, Fateme Rajabiyazdi, Carleton University, Ottawa, CA
-- 11:20 Q&A and Closing
+- **10:15:** Intoducing the Book on PDAV  
+_Jean-Daniel Fekete, Inria & Université Paris-Saclay, FR_
+- **10:35:** Towards a Progressive Open Source Framework for SciVis and InfoVis <a href="/pdfs/Paper - Towards a Progressive Open Source Framework for SciVis and InfoVis.pdf" target="_blank">[Paper]</a> <a href="/pdfs/Poster - Towards a Progressive Open Source Framework for SciVis and InfoVis.pdf" target="_blank">[Poster]</a>  
+_Charles Gueunet, François Mazen_
+- **10:50:** Progressive Glimmer: Expanding Dimensionality in Multidimensional Scaling <a href="/pdfs/Paper - Progressive Glimmer Expanding Dimensionality in Multidimensional Scaling.pdf" target="_blank">[Paper]</a> <a href="/pdfs/Poster - Progressive Glimmer Expanding Dimensionality in Multidimensional Scaling.pdf" target="_blank">[Poster]</a>  
+_Marina Evers, David Hägele, Sören Döring, Daniel Weiskopf_
+- **11:05:**: Practical Challenges of Progressive Data Science in Healthcare <a href="/pdfs/Paper - Practical Challenges of Progressive Data Science in Healthcare.pdf" target="_blank">[Paper]</a> <a href="/pdfs/Poster - Practical Challenges of Progressive Data Science in Healthcare.pdf" target="_blank">[Poster]</a>  
+_Faisal Zaki Roshan, Abhishek Ahuja, Fateme Rajabiyazdi_ 
+- **11:20:** Q&A and Closing
+
 
 
 # Supporters
