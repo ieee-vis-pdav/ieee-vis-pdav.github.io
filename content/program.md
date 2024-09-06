@@ -36,7 +36,8 @@ _Faisal Zaki Roshan, Abhishek Ahuja, Fateme Rajabiyazdi_
 
 # Supporters
 
-Thanks to the  [transregional Collaborative Research Center "Quantitative Methods for Visual Computing" (SFB-TRR 161)](https://www.sfbtrr161.de/) for its support.
+Thanks to the <a href="https://www.sfbtrr161.de/" target="_blank">transregional Collaborative Research Center "Quantitative Methods for Visual Computing" (SFB-TRR 161)</a> for its support.
+<img src="/images/sbf.png" alt="SBF" width="50%"/>
 
 # Keynote Presenters
 
