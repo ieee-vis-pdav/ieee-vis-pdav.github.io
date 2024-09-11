@@ -32,12 +32,10 @@ _Marina Evers, David Hägele, Sören Döring, Daniel Weiskopf_
 _Faisal Zaki Roshan, Abhishek Ahuja, Fateme Rajabiyazdi_ 
 - **11:20:** Q&A and Closing
 
+# Registration
 
-
-# Supporters
-
-Thanks to the <a href="https://www.sfbtrr161.de/" target="_blank">transregional Collaborative Research Center "Quantitative Methods for Visual Computing" (SFB-TRR 161)</a> for its support.
-<img src="/images/sbf.png" alt="SBF" width="50%"/>
+The regular registration to the [IEEE VIS 2024 Conference](https://ieeevis.org/) allows attending the workshop for free.
+Virtual participation costs $20 with the [Virtual Participant Registration](https://ieeevis.org/year/2024/info/registration/conference-registration#all-other-virtual-attendees).
 
 # Keynote Presenters
 
@@ -68,4 +66,9 @@ Incremental learning incorporates machine learning algorithms, which are capable
 
 ### Bio
 Barbara Hammer chairs the Machine Learning research group at the Research Institute for Cognitive Interaction Technology (CITEC) at Bielefeld University. After completing her doctorate at the University of Osnabrück in 1999, she was Professor of Theoretical Computer Science at Clausthal University of Technology and a visiting researcher in Bangalore, Paris, Padua and Pisa. Her areas of specialisation include trustworthy AI, lifelong machine learning, and the combination of symbolic and sub-symbolic representations.  She is PI in the ERC Synergy Grant WaterFutures and in the DFG Transregio Contructing Explainability. Barbara Hammer has been active at IEEE CIS as member of chair of the Data Mining Technical committee and the Neural Networks Technical Committee. She has been elected as a review board member for Machine Learning of the German Research Foundation in 2024 and she represents computer science as a member of the selection committee for fellowships of the Alexander von Humboldt Foundation. She is member of the Scientific Directorate Schloss Dagstuhl. Further, she has been selected as member of Academia Europaea.
+
+# Supporters
+
+Thanks to the <a href="https://www.sfbtrr161.de/" target="_blank">transregional Collaborative Research Center "Quantitative Methods for Visual Computing" (SFB-TRR 161)</a> for its support.
+<img src="/images/sbf.png" alt="SBF" width="50%"/>
 
