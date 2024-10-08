@@ -147,6 +147,17 @@ const Home = ({
                   />
                 </Link>
               )}
+              {promotion.enable2 && (
+                <Link href={promotion.link2} className="section block pt-0">
+                  <ImageFallback
+                    className="h-full w-full"
+                    height="115"
+                    width="800"
+                    src={promotion.image2}
+                    alt="promotion2"
+                  />
+                </Link>
+              )}
 
               {/* Recent Posts */}
               {recent_posts.enable && (

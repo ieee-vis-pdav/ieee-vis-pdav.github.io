@@ -19,6 +19,9 @@ promotion:
   enable: true
   image: /images/promotion_survey.png
   link: "https://visualsurvey.net"
+  enable2: false
+  image2: /images/pdav-book.png # should be 770x110px
+  link2: "pdav-book"
 
 recent_posts:
   title: Recent Posts
