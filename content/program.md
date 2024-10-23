@@ -14,7 +14,7 @@ _Danyel Fisher, USA_
 - **8:55:** Second Keynote: [A Progressive Perspective on Topological Data Analysis](#julien-tierny)  
 _Julien Tierny, Université Paris-Sorbonne, FR_
 - **9:15:** Third Keynote: [Explaining incremental models](#barbara-hammer)  
-_Barbara Hammer, Chair of the Machine Learning research group at the Research Institute for Cognitive Interaction Technology (CITEC), Bielefeld University, DE_
+_Barbara Hammer, Chair of the Machine Learning research group at the Research Institute for Cognitive Interaction Technology (CITEC), Bielefeld University, DE_<a href="/pdfs/Keynote - Hammer.pdf" target="_blank"> [Slides]</a>
 - **9:35:** Q&A
 
 ### 9:45 - 10:15 AM: Break
@@ -23,7 +23,7 @@ _Barbara Hammer, Chair of the Machine Learning research group at the Research In
 ### 10:15 - 11:30 AM: Session 2
 
 - **10:15:** Intoducing the Book on PDAV  
-_Jean-Daniel Fekete, Inria & Université Paris-Saclay, FR_
+_Jean-Daniel Fekete, Inria & Université Paris-Saclay, FR_<a href="/pdfs/PDAV Book.pdf" target="_blank"> [Slides]</a>
 - **10:35:** Towards a Progressive Open Source Framework for SciVis and InfoVis <a href="/pdfs/Paper - Towards a Progressive Open Source Framework for SciVis and InfoVis.pdf" target="_blank">[Paper]</a> <a href="/pdfs/Poster - Towards a Progressive Open Source Framework for SciVis and InfoVis.pdf" target="_blank">[Poster]</a>  
 _Charles Gueunet, François Mazen_
 - **10:50:** Progressive Glimmer: Expanding Dimensionality in Multidimensional Scaling <a href="/pdfs/Paper - Progressive Glimmer Expanding Dimensionality in Multidimensional Scaling.pdf" target="_blank">[Paper]</a> <a href="/pdfs/Poster - Progressive Glimmer Expanding Dimensionality in Multidimensional Scaling.pdf" target="_blank">[Poster]</a>  
